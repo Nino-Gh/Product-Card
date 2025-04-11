@@ -17,6 +17,7 @@ body{
   justify-content: center;
   align-items: center;
   font-family: "Roboto", sans-serif;
+  height: 100vh;
 }
 
 /*აქაც სიმაღლე მოვაშორე და padding მივეცი და სხვა div-ებსაც წავუშალე padding*/
